@@ -1,1 +1,4 @@
-made some changes in local main.txt
+
+made some changes in local main.tx
+made some changes in remote main.txt
+
